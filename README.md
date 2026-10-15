@@ -65,10 +65,12 @@ My java DSA practice and Leetcode solutions
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -119,4 +121,12 @@ My java DSA practice and Leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 <!---LeetCode Topics End-->
