@@ -12,12 +12,14 @@ My java DSA practice and Leetcode solutions
 | [0692-top-k-frequent-words](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,4 +97,12 @@ My java DSA practice and Leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0338-counting-bits/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
