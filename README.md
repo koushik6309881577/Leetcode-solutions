@@ -105,4 +105,12 @@ My java DSA practice and Leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0050-powx-n/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
