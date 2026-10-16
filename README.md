@@ -12,6 +12,7 @@ My java DSA practice and Leetcode solutions
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0860-lemonade-change](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -103,6 +104,7 @@ My java DSA practice and Leetcode solutions
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
