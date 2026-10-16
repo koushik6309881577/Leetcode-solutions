@@ -10,6 +10,7 @@ My java DSA practice and Leetcode solutions
 | [0300-longest-increasing-subsequence](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0455-assign-cookies](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -35,6 +36,7 @@ My java DSA practice and Leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0455-assign-cookies](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -100,6 +102,7 @@ My java DSA practice and Leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0455-assign-cookies](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +126,7 @@ My java DSA practice and Leetcode solutions
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -136,4 +140,8 @@ My java DSA practice and Leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
