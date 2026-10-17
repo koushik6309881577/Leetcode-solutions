@@ -13,6 +13,7 @@ My java DSA practice and Leetcode solutions
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0705-design-hashset](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
 | [0860-lemonade-change](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -24,6 +25,7 @@ My java DSA practice and Leetcode solutions
 | [0347-top-k-frequent-elements](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0705-design-hashset](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -153,4 +155,16 @@ My java DSA practice and Leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
 <!---LeetCode Topics End-->
