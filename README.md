@@ -126,6 +126,7 @@ My java DSA practice and Leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0050-powx-n/) | Medium |
+| [3270-find-the-key-of-the-numbers](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
