@@ -13,6 +13,7 @@ My java DSA practice and Leetcode solutions
 | [0347-top-k-frequent-elements](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0561-array-partition](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0705-design-hashset](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
@@ -46,6 +47,7 @@ My java DSA practice and Leetcode solutions
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0561-array-partition](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -115,6 +117,7 @@ My java DSA practice and Leetcode solutions
 | [0055-jump-game](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0561-array-partition](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0860-lemonade-change](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
 ## Bit Manipulation
@@ -175,4 +178,8 @@ My java DSA practice and Leetcode solutions
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 <!---LeetCode Topics End-->
