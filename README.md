@@ -38,6 +38,7 @@ My java DSA practice and Leetcode solutions
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -188,9 +189,14 @@ My java DSA practice and Leetcode solutions
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
