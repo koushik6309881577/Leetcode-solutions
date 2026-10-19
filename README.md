@@ -18,6 +18,7 @@ My java DSA practice and Leetcode solutions
 | [0705-design-hashset](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0860-lemonade-change](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -182,4 +183,12 @@ My java DSA practice and Leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0561-array-partition/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 <!---LeetCode Topics End-->
