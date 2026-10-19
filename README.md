@@ -125,6 +125,7 @@ My java DSA practice and Leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0338-counting-bits/) | Easy |
+| [3370-smallest-number-with-all-set-bits](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +139,7 @@ My java DSA practice and Leetcode solutions
 | ------- | ------- |
 | [0050-powx-n](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 | [3270-find-the-key-of-the-numbers](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
+| [3370-smallest-number-with-all-set-bits](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
