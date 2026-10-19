@@ -40,6 +40,7 @@ My java DSA practice and Leetcode solutions
 | [0692-top-k-frequent-words](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [3110-score-of-a-string](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/3110-score-of-a-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
