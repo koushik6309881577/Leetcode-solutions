@@ -17,6 +17,7 @@ My java DSA practice and Leetcode solutions
 | [0692-top-k-frequent-words](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0705-design-hashset](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0860-lemonade-change](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -32,12 +33,14 @@ My java DSA practice and Leetcode solutions
 | [0692-top-k-frequent-words](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0705-design-hashset](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0804-unique-morse-code-words](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [3110-score-of-a-string](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/3110-score-of-a-string/) | Easy |
