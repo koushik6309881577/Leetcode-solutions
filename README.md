@@ -130,6 +130,7 @@ My java DSA practice and Leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0338-counting-bits/) | Easy |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
