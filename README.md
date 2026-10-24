@@ -131,6 +131,7 @@ My java DSA practice and Leetcode solutions
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0338-counting-bits/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 ## Binary Indexed Tree
@@ -146,6 +147,7 @@ My java DSA practice and Leetcode solutions
 | ------- | ------- |
 | [0050-powx-n](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [3270-find-the-key-of-the-numbers](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 ## Recursion
