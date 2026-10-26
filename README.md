@@ -19,6 +19,7 @@ My java DSA practice and Leetcode solutions
 | [0706-design-hashmap](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0860-lemonade-change](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -109,6 +110,7 @@ My java DSA practice and Leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/koushik6309881577/Leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
